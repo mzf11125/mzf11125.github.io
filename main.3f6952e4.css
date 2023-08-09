@@ -926,8 +926,3 @@ padding:0;
 overflow:hidden}.list-icons li{float:left;
 margin-right:5px}
 /*# sourceMappingURL=main.70a66962.map*/
-.navbar{
-    position: relative; 
-    left: 50%;
-    transform: translateX(-50%);
-}
